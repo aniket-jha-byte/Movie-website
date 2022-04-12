@@ -1,4 +1,4 @@
-# Created a movie website - Tmdb99
+# Created a movie website - Tmdb
 In this website user select their favourite movie which goes and store in their favorurites accoring to movie genre 
 I have added sorting feature on based of rating and popularity and pagination
 User can search movie and can delete movie from their favourties
